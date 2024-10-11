@@ -29,7 +29,7 @@ Here are a few key projects that showcase my work:
 I am eager to connect with fellow developers and explore collaboration opportunities. Feel free to reach out:
 
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/marwan-ahmed-abdelrehem/)
-- **Twitter:** [My Socials](https://guns.lol/kaiowa)
+- **Socials:** [My Socials](https://guns.lol/kaiowa)
 - **Email:** marwanahmedabdelrahim.work@gmail.com
 
 Thank you for visiting my GitHub profile! 🙌
