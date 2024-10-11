@@ -30,7 +30,7 @@ I am eager to connect with fellow developers and explore collaboration opportuni
 
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/marwan-ahmed-abdelrehem/)
 - **Twitter:** [My Socials](https://guns.lol/kaiowa)
-- **Email:** your_email@example.com
+- **Email:** marwanahmedabdelrahim.work@gmail.com
 
 Thank you for visiting my GitHub profile! 🙌
 
