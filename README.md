@@ -15,7 +15,6 @@ I am a motivated junior Flutter developer with a strong passion for creating inn
 - **Development Tools:** Git, GitHub, Visual Studio Code
 - **Key Concepts:** RESTful APIs, State Management, Responsive UI Design
 - **Embedded Systems:** Proficient in working with microcontrollers
-- **Development Methodologies:** Agile Development, Test-Driven Development (TDD)
 
 ## Projects 🚀
 
